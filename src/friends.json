@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Bart",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abe",
+      "image": "/public/Abe_Simpson.png"
+    },
+    {
+      "id": 3,
+      "name": "Homer",
+      "image": "./public/Homer_Simpson_2006.png"
+    },
+    {
+      "id": 4,
+      "name": "Moe",
+      "image": "/public/Moe_Szyslak.png"
+    },
+    {
+      "id": 5,
+      "name": "Mr Burns",
+      "image": "/public/Mr_Burns.png"
+    },
+    {
+      "id": 6,
+      "name": "Marge",
+      "image": "/public/Marge_Simpson.png"
+    },
+    {
+      "id": 7,
+      "name": "Lisa",
+      "image": "/public/Lisa_Simpson.png"
+    },
+    {
+      "id": 8,
+      "name": "Maggie",
+      "image": "/public/Maggie_Simpson.png"
+    },
+    {
+      "id": 9,
+      "name": "Milhouse",
+      "image": "/public/Milhouse_Van_Houten.png"
+    },
+    {
+      "id": 10,
+      "name": "Nelson",
+      "image": "/public/Nelson_Muntz.png"
+    },
+    {
+      "id": 11,
+      "name": "Krusty",
+      "image": "/public/Krustytheclown.png"
+    },
+    {
+      "id": 12,
+      "name": "Apu",
+      "image": "/public/Apu_Nahasapeemapetilon_(The_Simpsons).png"
+    }
+  ]
