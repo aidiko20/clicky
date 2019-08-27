@@ -2,7 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/aidiko20/clicky.git",
+  "homepage": "https://aidiko20.github.io/clicky/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
