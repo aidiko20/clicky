@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Bart",
-      "image": "https://en.wikipedia.org/wiki/Bart_Simpson#/media/File:Bart_Simpson_200px.png"
+      "image": "https://static.simpsonswiki.com/images/6/65/Bart_Simpson.png"
     },
     {
       "id": 2,
@@ -12,51 +12,51 @@
     {
       "id": 3,
       "name": "Homer",
-      "image": "https://en.wikipedia.org/wiki/Homer_Simpson#/media/File:Homer_Simpson_2006.png"
+      "image": "https://static.simpsonswiki.com/images/b/bd/Homer_Simpson.png"
     },
     {
       "id": 4,
       "name": "Moe",
-      "image": "https://en.wikipedia.org/wiki/Moe_Szyslak#/media/File:Moe_Szyslak.png"
+      "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11/111746/6555527-tapped_out_unlock_moe.png"
     },
     {
       "id": 5,
       "name": "Mr Burns",
-      "image": "https://en.wikipedia.org/wiki/Mr._Burns#/media/File:Mr_Burns.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/b0/Mr._Burns.png/revision/latest?cb=20130910084050"
     },
     {
       "id": 6,
       "name": "Marge",
-      "image": "https://en.wikipedia.org/wiki/Marge_Simpson#/media/File:Marge_Simpson.png"
+      "image": "https://static.simpsonswiki.com/images/0/0b/Marge_Simpson.png"
     },
     {
       "id": 7,
       "name": "Lisa",
-      "image": "https://en.wikipedia.org/wiki/Lisa_Simpson#/media/File:Lisa_Simpson.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png/revision/latest?cb=20190409004811"
     },
     {
       "id": 8,
       "name": "Maggie",
-      "image": "https://en.wikipedia.org/wiki/Maggie_Simpson#/media/File:Maggie_Simpson.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9d/Maggie_Simpson.png/revision/latest?cb=20130424150432"
     },
     {
       "id": 9,
       "name": "Milhouse",
-      "image": "https://en.wikipedia.org/wiki/Milhouse_Van_Houten#/media/File:Milhouse_Van_Houten.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/91/Milhouse_Van_Houten_2.png/revision/latest?cb=20180429212659"
     },
     {
       "id": 10,
       "name": "Nelson",
-      "image": "https://en.wikipedia.org/wiki/Nelson_Muntz#/media/File:Nelson_Muntz.PNG"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/e0/Nelson_Muntz-795440.png/revision/latest?cb=20170903210651"
     },
     {
       "id": 11,
       "name": "Krusty",
-      "image": "https://en.wikipedia.org/wiki/Krusty_the_Clown#/media/File:Krustytheclown.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/07/Tapped_Out_Unlock_Krusty.png/revision/latest?cb=20141120143301"
     },
     {
       "id": 12,
       "name": "Apu",
-      "image": "https://simpsons.fandom.com/wiki/Apu_Nahasapeemapetilon?file=Apu_Nahasapeemapetilon.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest?cb=20171027210822"
     }
   ]

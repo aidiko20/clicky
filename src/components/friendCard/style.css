@@ -5,6 +5,7 @@
     position: relative;
     width: 300px;
     text-align: left;
+    background-position: center;
   }
   
   .card > .img-container {
