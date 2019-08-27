@@ -1,5 +1,5 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 import Jumbotron from "./components/jumbotron";
 import Wrapper from "./components/wrapper";
 import Card from "./components/friendCard";

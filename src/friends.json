@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "Bart",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg"
+      "image": "https://en.wikipedia.org/wiki/Bart_Simpson#/media/File:Bart_Simpson_200px.png"
     },
     {
       "id": 2,
       "name": "Abe",
-      "image": "/public/Abe_Simpson.png"
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a9/Abraham_Simpson.png/revision/latest?cb=20151011181838"
     },
     {
       "id": 3,
       "name": "Homer",
-      "image": "./public/Homer_Simpson_2006.png"
+      "image": "https://en.wikipedia.org/wiki/Homer_Simpson#/media/File:Homer_Simpson_2006.png"
     },
     {
       "id": 4,
       "name": "Moe",
-      "image": "/public/Moe_Szyslak.png"
+      "image": "https://en.wikipedia.org/wiki/Moe_Szyslak#/media/File:Moe_Szyslak.png"
     },
     {
       "id": 5,
       "name": "Mr Burns",
-      "image": "/public/Mr_Burns.png"
+      "image": "https://en.wikipedia.org/wiki/Mr._Burns#/media/File:Mr_Burns.png"
     },
     {
       "id": 6,
       "name": "Marge",
-      "image": "/public/Marge_Simpson.png"
+      "image": "https://en.wikipedia.org/wiki/Marge_Simpson#/media/File:Marge_Simpson.png"
     },
     {
       "id": 7,
       "name": "Lisa",
-      "image": "/public/Lisa_Simpson.png"
+      "image": "https://en.wikipedia.org/wiki/Lisa_Simpson#/media/File:Lisa_Simpson.png"
     },
     {
       "id": 8,
       "name": "Maggie",
-      "image": "/public/Maggie_Simpson.png"
+      "image": "https://en.wikipedia.org/wiki/Maggie_Simpson#/media/File:Maggie_Simpson.png"
     },
     {
       "id": 9,
       "name": "Milhouse",
-      "image": "/public/Milhouse_Van_Houten.png"
+      "image": "https://en.wikipedia.org/wiki/Milhouse_Van_Houten#/media/File:Milhouse_Van_Houten.png"
     },
     {
       "id": 10,
       "name": "Nelson",
-      "image": "/public/Nelson_Muntz.png"
+      "image": "https://en.wikipedia.org/wiki/Nelson_Muntz#/media/File:Nelson_Muntz.PNG"
     },
     {
       "id": 11,
       "name": "Krusty",
-      "image": "/public/Krustytheclown.png"
+      "image": "https://en.wikipedia.org/wiki/Krusty_the_Clown#/media/File:Krustytheclown.png"
     },
     {
       "id": 12,
       "name": "Apu",
-      "image": "/public/Apu_Nahasapeemapetilon_(The_Simpsons).png"
+      "image": "https://simpsons.fandom.com/wiki/Apu_Nahasapeemapetilon?file=Apu_Nahasapeemapetilon.png"
     }
   ]
